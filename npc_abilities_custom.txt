@@ -6292,7 +6292,7 @@
 			"01"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"caustic_finale_radius"		"4000"
+				"caustic_finale_radius"		"40"
 			}
 			"02"
 			{
@@ -18153,7 +18153,7 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"damage"				"150000 250000 350000"
+				"damage"				"15000 25000 35000"
 			}
 			"02"
 			{
