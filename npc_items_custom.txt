@@ -2717,12 +2717,12 @@
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"xp_multiplier"			"250"
+				"xp_multiplier"			"3"
 			}
 			"03"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_gold"			"22000"
+				"bonus_gold"			"2200"
 			}
 			"04"
 			{
