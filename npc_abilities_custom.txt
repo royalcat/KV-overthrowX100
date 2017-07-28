@@ -815,7 +815,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"mana_per_hit"			"2800 4000 5200 6400"
+				"mana_per_hit"			"28000 40000 52000 64000"
 			}
 		}
 	}
@@ -15404,7 +15404,7 @@
 			"04"
 			{
 				"var_type"					"FIELD_INTEGER"
-				"charge_speed"				"120000"
+				"charge_speed"				"1200"
 			}
 			"05"
 			{
@@ -18078,7 +18078,7 @@
 			"02"
 			{
 				"var_type"				"FIELD_FLOAT"
-				"damage"				"2200 3000 3800 4600"
+				"damage"				"1100 1500 1900 2400"
 			}
 			"03"
 			{
@@ -18098,7 +18098,7 @@
 			"06"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"knockback_height"		"5000 5000 5000 5000"
+				"knockback_height"		"2000 5000 5000 5000"
 			}
 			"07"
 			{
