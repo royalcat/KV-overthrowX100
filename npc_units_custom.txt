@@ -778,11 +778,11 @@
 		// Abilities
 		//----------------------------------------------------------------
 		
-		"Ability1"					""			// Ability 1.
-		"Ability2"					""			// Ability 2.
-		"Ability3"					""			// Ability 3.
-		"Ability4"					""			// Ability 4.
-		"Ability5"					""			// Ability 5.
+		"Ability1"					"ursa_fury_swipes"			// Ability 1.
+		"Ability2"					"spirit_breaker_greater_bash"			// Ability 2.
+		"Ability3"					"spectre_desolate"			// Ability 3.
+		"Ability4"					"nevermore_dark_lord"			// Ability 4.
+		"Ability5"					"abyssal_underlord_atrophy_aura"			// Ability 5.
 		"Ability6"					""			// Ability 6 - Extra.
 		"Ability7"					""			// Ability 7 - Extra.
 		"Ability8"					""			// Ability 8 - Extra.
