@@ -7300,12 +7300,12 @@
 			"07"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"static_primary_radius"	"60000"
+				"static_primary_radius"	"60"
 			}
 			"08"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"static_seconary_radius"	"90000"
+				"static_seconary_radius"	"90"
 			}
 			"09"
 			{
@@ -7478,12 +7478,12 @@
 			"01"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_damage"			"1000"
+				"bonus_damage"			"10000"
 			}
 			"02"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"bonus_strength"		"1600"
+				"bonus_strength"		"16000"
 			}	
 			"03"
 			{
@@ -7672,7 +7672,7 @@
 			"06"
 			{
 				"var_type"				"FIELD_INTEGER"
-				"chain_radius"			"90000"
+				"chain_radius"			"90"
 			}
 			"07"
 			{
